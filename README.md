@@ -1,5 +1,5 @@
 ![Logo](https://github.com/senajpeg/ArtSpace/blob/main/artSpace1.png?raw=true)
-
+![Logo](https://github.com/senajpeg/ArtSpace/blob/main/artSpace2.png?raw=true)
 
 
 
